@@ -1,2 +1,7 @@
 Hola/Hi
-Este es una çomunidad
+
+
+
+
+
+Este es una comunidad
