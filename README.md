@@ -24,3 +24,18 @@ Este es una comunidad
     - Conectarse a la red con el 6to comando
     - siempre despues de hacer alguna instalacion siempre se debe de actualizar el sistema con: pacman -sy
 5. Listar los discos con el 7mo comando
+
+### Lista de comandos
+
+| No | Comando |
+| --- | --- |
+| 1 | loadkeys la-latin1 |
+| 2 | export LANG=es_ES.UTF-8 |
+| 3 | pacman -Sy |
+| 4 | ls /sys/class/net | grep w |
+| 5 | systemctl start —now iwd.service |
+| 6 | iwctl —passphrase ‘contraseña’ station “nombre del dispositivo” connect ‘nombre de la red’ |
+| 7 | fdisk -l |
+| 8 |  |
+| 9 |  |
+| 10 |  |
