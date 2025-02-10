@@ -59,6 +59,5 @@ Para ello, deberás incluir la siguiente información en el archivo `autores.txt
 - **Si el wallpaper es tuyo:** Coloca tu nombre y, si lo deseas, tus redes sociales o algún enlace para que los demás puedan conocerte y seguir tu trabajo.
 - **Si el wallpaper no es tuyo:** Debes indicar la página o fuente de donde lo descargaste, o el nombre del autor si lo conoces. Es fundamental que mencionemos de dónde provienen los contenidos para garantizar el respeto hacia el trabajo de los demás.
 
-Autor: Nombre del autor si es de una pagina coloca pagina web
-Fuente: [https://www.ejemplo.com](https://www.ejemplo.com/)
-Redes: @nombredeusuario (si aplica) o mas redes sociales de tu preferencia
+![image](https://github.com/user-attachments/assets/2012d4d0-7757-46e1-be29-39d8b4605170)
+
