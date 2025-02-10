@@ -2,4 +2,4 @@
 
 
 
-## Bienvenido a la Comunidad de Wallpapers de GitHub 🌟
+Bienvenido a la Comunidad de Wallpapers de GitHub 🌟
